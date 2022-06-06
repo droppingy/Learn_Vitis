@@ -16,7 +16,7 @@ Ubuntu 18.04.6 + U280
 > check supported platforms  
 > ![avatar](./pictures/001/platforms.png)
 
-5. sudo apt install git ocl-icd-loibopencl1 opencl-headers ocl-icd-opencl-dev
+5. sudo apt install git ocl-icd-libopencl1 opencl-headers ocl-icd-opencl-dev
 > install git and dependencies
 
 ### Preperations 
